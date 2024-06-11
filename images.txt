@@ -7,3 +7,4 @@ ghcr.io/monlor/xiaoya-alist
 ghcr.io/monlor/xiaoya-metadata
 ghcr.io/monlor/xiaoya-embyserver
 amilys/embyserver
+cloudnas/clouddrive2
